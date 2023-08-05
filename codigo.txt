@@ -1,1 +1,1 @@
-alterando codigo.txt
+{ background: #000 }
