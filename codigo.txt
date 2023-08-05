@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HELLO TEACHER
+=======
+HELLO TEACHER!!
+ALTERADO
+>>>>>>> dev
