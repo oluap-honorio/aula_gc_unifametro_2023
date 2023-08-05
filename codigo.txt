@@ -1,1 +1,1 @@
-Nicolas Souza Gomes
+{ background: #000 }
