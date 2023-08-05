@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-HELLO TEACHER
-=======
+{ background: #000 }
 HELLO TEACHER!!
 ALTERADO
->>>>>>> dev
